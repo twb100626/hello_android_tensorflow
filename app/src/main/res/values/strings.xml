@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Hello_tensorflow</string>
+    <string name="txt_inference">Inference</string>
+</resources>
